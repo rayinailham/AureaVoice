@@ -44,7 +44,7 @@ Cara termudah dan tercepat untuk menjalankan AureaVoice adalah dengan menggunaka
 1.  **Clone Repositori**
     Buka terminal atau Command Prompt dan jalankan perintah berikut:
     ```sh
-    git clone <URL_REPOSITORI_GITHUB_ANDA>
+    git clone https://github.com/rayinailham/AureaVoice.git
     ```
 
 2.  **Masuk ke Direktori Proyek**
